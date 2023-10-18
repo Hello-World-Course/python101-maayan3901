@@ -8,4 +8,4 @@
 # בתרגיל הזה כל שעליכם לעשות זה לכתוב פקודת הדפסה בודדת עם המלל הבא
 # "Hello World I love Python!"
 
-#print "Hello World I love Python!"
+print("Hello World I love Python!")
